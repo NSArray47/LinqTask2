@@ -1,0 +1,6 @@
+/Users/deBUGger/RiderProjects/Linq2/Linq2/bin/Debug/Linq2.exe
+/Users/deBUGger/RiderProjects/Linq2/Linq2/bin/Debug/Linq2.pdb
+/Users/deBUGger/RiderProjects/Linq2/Linq2/obj/Debug/Linq2.csprojResolveAssemblyReference.cache
+/Users/deBUGger/RiderProjects/Linq2/Linq2/obj/Debug/Linq2.csproj.CoreCompileInputs.cache
+/Users/deBUGger/RiderProjects/Linq2/Linq2/obj/Debug/Linq2.exe
+/Users/deBUGger/RiderProjects/Linq2/Linq2/obj/Debug/Linq2.pdb
