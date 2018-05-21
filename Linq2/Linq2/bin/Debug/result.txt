@@ -1,0 +1,18 @@
+Client with minimum trainings: LinqProj.Client
+Client with maximum trainings: LinqProj.Client
+The year with maximal total trainings time: 2015
+
+Client with ID: 4744 had trained for 58 hours.
+Client with ID: 4747 had trained for 4 hours.
+Client with ID: 4774 had trained for 14 hours.
+Client with ID: 7447 had trained for 74 hours.
+Client with ID: 7474 had trained for 56 hours.
+Client with ID: 7477 had trained for 11 hours.
+
+Client with ID: 4744 had trained for 12 month(s).
+Client with ID: 4747 had trained for 7 month(s).
+Client with ID: 4774 had trained for 5 month(s).
+Client with ID: 7447 had trained for 6 month(s).
+Client with ID: 7474 had trained for 1 month(s).
+Client with ID: 7477 had trained for 4 month(s).
+
